@@ -72,3 +72,5 @@ with a green rectangle.
 
 [opencv-java-tutorial]: http://docs.opencv.org/2.4/doc/tutorials/introduction/desktop_java/java_dev_intro.html
 [opencv-clojure-tutorial]: http://docs.opencv.org/2.4/doc/tutorials/introduction/clojure_dev_intro/clojure_dev_intro.html
+[lein-localrepo]: https://github.com/kumarshantanu/lein-localrepo
+[cursive-clojure]: https://cursiveclojure.com/
