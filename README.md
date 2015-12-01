@@ -21,7 +21,7 @@ This will probably take a while to compile...
 We want to be able to refer to OpenCV as a dependency in our `project.clj`, so we
 need to install the OpenCV java API and the native library into our local Maven repo.
 
-First, install the [lein-localrepo plugin][localrepo] by adding it to your `~/.lein/profiles.clj`:
+First, install the [lein-localrepo plugin][lein-localrepo] by adding it to your `~/.lein/profiles.clj`:
 
 ```clojure
 {:user {:plugins [[lein-localrepo "0.5.3"]]}
